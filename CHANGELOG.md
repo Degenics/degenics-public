@@ -137,3 +137,25 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     
 - Demo
     - https://drive.google.com/file/d/1Rk0AZ1qMIUMhtZ2M_BKcpeV_mHnPmFWF/view?usp=sharing
+    
+    
+## Prototyping 2021/1/25 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+    - (2021/1/19) Update order detail page: refactor testResult component, add search feature to test result page, fix typos, refactor button component, refactor status chip component, add DegenicsLog contract to Vuex store; Update bug: change search by report, change public key to encrypt, change default rpc; Add breadcrumbs; Refactor page header
+    - (2021/1/20) Update refund mechanism: Add refund policy explanation, handle refund if order exceeded max processing time, refactor components 
+    - (2021/1/21) Update login mechanism as lab, show wallet balance 
+    - (2021/1/22) Update dowload genome page: get genome files in download genome page, handle download genome files, clean up and rename routes and their components
+   
+- Smart Contract
+    - No Updates
+
+- Documentation
+    - Testing Document: https://drive.google.com/file/d/1JnhPwm2861wyxrC5lNBQgZshQB90RN75/view?usp=sharing
+    
+- Demo
+    - To be updated
