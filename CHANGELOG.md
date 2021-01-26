@@ -158,4 +158,4 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - Testing Document: https://drive.google.com/file/d/1JnhPwm2861wyxrC5lNBQgZshQB90RN75/view?usp=sharing
     
 - Demo
-    - To be updated
+    - https://drive.google.com/file/d/11XT5nDsqMuiDcawVk_WVRP545zVYuUs_/view?usp=sharing
