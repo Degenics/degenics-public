@@ -176,5 +176,5 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - (2021/1/28) Update dummy data DNA with new icon and description
     
 - Demo
-    - Link (TBU)
-    - Created 5 new accounts https://drive.google.com/file/d/1HzXtPtvCN2cuY41atwvvajova3pVjNjs/view?usp=sharing 
+    - Video: https://drive.google.com/file/d/1QpOIdyyvNO0AwF_Y82XMNSuIgpM4xQGg/view?usp=sharing
+    - Created 5 new accounts: https://drive.google.com/file/d/1HzXtPtvCN2cuY41atwvvajova3pVjNjs/view?usp=sharing 
