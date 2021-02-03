@@ -173,7 +173,8 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - (2021/2/02) Fix order history link
    
 - Smart Contract
-    - (2021/1/28) Update dummy data DNA with new icon and description 
+    - (2021/1/28) Update dummy data DNA with new icon and description
     
 - Demo
-    - (TBU)
+    - Link (TBU)
+    - Created 5 new accounts https://drive.google.com/file/d/1HzXtPtvCN2cuY41atwvvajova3pVjNjs/view?usp=sharing 
