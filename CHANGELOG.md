@@ -159,3 +159,21 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     
 - Demo
     - https://drive.google.com/file/d/11XT5nDsqMuiDcawVk_WVRP545zVYuUs_/view?usp=sharing
+    
+ 
+## Prototyping 2021/2/02 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+    - (2021/1/26) Add & Refresh Favicon; Bug hotfix (rejection not showing); Add login validation using private key; Fix typos; Display rejection reason in order history table and lab dashboard processing page
+    - (2021/1/29) Update Lab Process Rule: Lab can now finalized order by uploading either genome or report, Update contract.json for new network; Update default RPC connection
+    - (2021/2/02) Fix order history link
+   
+- Smart Contract
+    - (2021/1/28) Update dummy data DNA with new icon and description 
+    
+- Demo
+    - (TBU)
