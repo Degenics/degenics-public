@@ -160,7 +160,7 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 - Demo
     - https://drive.google.com/file/d/11XT5nDsqMuiDcawVk_WVRP545zVYuUs_/view?usp=sharing
     
- 
+    
 ## Prototyping 2021/2/02 [Unreleased](https://github.com/Degenics)
 
 ### Full Changelog
@@ -178,3 +178,24 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 - Demo
     - Video: https://drive.google.com/file/d/1QpOIdyyvNO0AwF_Y82XMNSuIgpM4xQGg/view?usp=sharing
     - Created 5 new accounts: https://drive.google.com/file/d/1HzXtPtvCN2cuY41atwvvajova3pVjNjs/view?usp=sharing 
+    
+    
+## Prototyping 2021/2/08 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+    - (2021/2/03) Update specimen sending instruction: Create a page for DNA sample collection instructions, refactor Card component, create BulletPoint component, add createHref method to breadcrumbs for dynamic breadcrumb links with parameters; Fixing: change current logo with new logo, edit sending instructions, edit dna sample collection instructions, show product price in request test page, add tooltip to Orders with 'sending' status.
+    - (2021/2/04) Hotfix: change product card column size on xl screens; Fixing: show DNA Sample collection requirements, get ether when login.
+    - (2021/2/05) Adjust menu card height: add height parameter to MenuCard, set height to 120 to MenuCard at dashboard Home; Truncate Product Description Overflow: new contract, truncate long product description, add tooltip to show product description; Disable Reject button while uploading: watch if file manager is loading, disable send and reject button while file manager is loading.
+    - (2021/2/08) Add recaptcha, change 'Buccal Swab' to 'Cotton Bud'.
+   
+- Smart Contract
+    - No Updates
+    
+- Demo
+    - Video: TBA
+    
+
