@@ -174,6 +174,7 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
    
 - Smart Contract
     - (2021/1/28) Update dummy data DNA with new icon and description
+    - (2021/1/29) Update lab's name and address, fix typos, move contract to private network   
     
 - Demo
     - Video: https://drive.google.com/file/d/1QpOIdyyvNO0AwF_Y82XMNSuIgpM4xQGg/view?usp=sharing
@@ -193,7 +194,29 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - (2021/2/08) Add recaptcha, change 'Buccal Swab' to 'Cotton Bud'.
    
 - Smart Contract
-    - No Updates
+    - (2021/2/03) Update products, update address 
+    - (2021/2/04) Update whole genome sequencing product description, update address
+    - (2021/2/05) Update covid-19 product description
+    
+- Demo
+    - Video: https://youtu.be/KPRjbar5TEk
+    
+    
+## Prototyping 2021/2/15 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+    - (2021/2/09) Remove labs.json from Git
+    - (2021/2/10) Delete stored file object in local storage if all files are deleted, update new contract, show longDescription of products, add links to website on logo, add about us text on login screen, add footer text instruction to process as lab at user's home.
+    - (2021/2/11) Show demo lab password to users at password input dialog.
+
+- Smart Contract
+    - (2021/2/09) Merge branch 'master' into development.
+    - (2021/2/10) Update lab name, Add extended description to products.
+    - (2021/2/12) Remove wallet.
     
 - Demo
     - Video: TBA
