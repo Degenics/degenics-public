@@ -219,6 +219,21 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - (2021/2/12) Remove wallet.
     
 - Demo
-    - Video: TBA
+    - Video: https://youtu.be/KPRjbar5TEk
     
+## Prototyping 2021/2/22 [Unreleased](https://github.com/Degenics)
 
+### Full Changelog
+
+**Development**
+
+- Front End
+   - No Updates
+
+- Smart Contract
+    - No Updates
+    
+- Documents
+    - User flow diagram with KILT: ![degenics kilt](https://user-images.githubusercontent.com/67957522/109594151-e2eb5c00-7b44-11eb-8728-0792fa3d4144.png)
+
+    
