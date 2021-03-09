@@ -237,3 +237,17 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - User flow diagram with KILT: ![degenics kilt](https://user-images.githubusercontent.com/67957522/109594151-e2eb5c00-7b44-11eb-8728-0792fa3d4144.png)
 
     
+## Prototyping 2021/3/1 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+   - No Updates
+
+- Smart Contract
+    - No Updates
+    
+- UI/UX
+    - ![Lab Dashboard](https://user-images.githubusercontent.com/67957522/110413271-281d0a00-80c0-11eb-9c64-54f9a95160ee.gif)
