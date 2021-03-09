@@ -248,6 +248,30 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 
 - Smart Contract
     - No Updates
-    
+
+- Node
+    - (2021/3/01) Added function order_service to transfers amount of service price from customer's account to lab's account.
+
 - UI/UX
     - ![Lab Dashboard](https://user-images.githubusercontent.com/67957522/110413271-281d0a00-80c0-11eb-9c64-54f9a95160ee.gif)
+
+
+## Prototyping 2021/3/8 [Unreleased](https://github.com/Degenics)
+
+### Full Changelog
+
+**Development**
+
+- Front End
+   - (2021/3/04) Change logo, connect to dev substrate chain, generate account and login using substrate based crypto, show wallet balance from substrate chain, update style of Login/Register UI
+
+- Smart Contract
+    - No Updates
+    
+- Node
+    - (2021/3/04) Retrieve account's info from frame_system::Module::<T>::account.
+    - (2021/3/05) Additional properties for Lab struct, split Lab and Service into spearate pallets (refactor), create Orders Pallet, update types for each pallets. 
+    - (2021/3/06) Create escrow pallet: create Escrow account on create Order, transfer payment to Escrow account on pay Order; fix types for orders pallet; Pass updated order after update order status to paid.
+    - (2021/3/07) Fulfill Order extrinsic: Refund Order extrinsic
+    - (2021/3/08) Update Lab Info & Update and Delete Service: Lab implements service owner trait (associate / disassociate service to its owner), check if caller is owner of service, check if caller can create a service (true if caller is a lab), update lab dispatchable, update service dispatchable, delete service dispatchable.
+
